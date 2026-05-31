@@ -2,8 +2,8 @@
 
 A modern, interactive landing page designed for **Hill County**, the newly launched residential development by the **Pragna Group**. Situated in the rapidly growing hub of Bhongir, this project highlights premium amenities and a community-centric lifestyle.
 
-![Languages](https://img.shields.io/badge/CSS-47.3%25-purple)
-![Languages](https://img.shields.io/badge/HTML-32.2%25-orange)
+![Languages](https://img.shields.io/badge/HTML-47.3%25-purple)
+![Languages](https://img.shields.io/badge/CSS-32.2%25-orange)
 ![Languages](https://img.shields.io/badge/JavaScript-20.5%25-yellow)
 ![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)
 
