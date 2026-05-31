@@ -21,8 +21,8 @@ The Hill County landing page is built to visually immerse potential buyers in th
 
 ## 🛠️ Built With
 
-* **HTML5** (32.2%) - Semantic document structuring
-* **CSS3** (47.3%) - Responsive design, flexbox/grid layouts, and native keyframes
+* **HTML5** (47.3%) - Semantic document structuring
+* **CSS3** (32.2%) - Responsive design, flexbox/grid layouts, and native keyframes
 * **JavaScript** (20.5%) - Core logic and DOM manipulation
 * **GSAP** - Industry-standard library for high-performance animations
 
